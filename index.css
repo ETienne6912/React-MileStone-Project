@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+/* base styles */
+* {
+  margin: 20;
+  font-family: "Quicksand";
+  color: white;
+  background-color: #333;
+}
+
+.navbar {
+  padding: 20px 20px;
+  display: grid;
+  align-items: center;
+  max-width: 600px;
+  margin: 10px auto;
+  border-bottom: 1px solid #f2f2f2;
+
+}
+
+.navbar h1 {
+  color: #f2f2f2;
+  text-align: center;
+}
+
+.navbar .links {
+  margin-left: auto;
+  padding: 15px 15px 15px 15px;
+}
+
+.navbar a {
+  color: white;
+  padding: 10px;
+  margin: 16px 16px 10px 16px;
+  text-decoration: none;
+  color: #f2f2f2;
+}
+
+
+
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+.links {
+  padding: 20px;
+  margin: 20px;
+  color: azure;
+
+}
+
+.button {
+  margin: 20px;
+  padding: 20px;
+
+}
+
+.LBStoKG .milestoKM .ethtoZar .dollartoRand h2 {
+  margin: 20px;
+  padding: 20px;
+}
+
+.milestoKM {
+  color: #333;
+}
